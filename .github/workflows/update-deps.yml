@@ -3,6 +3,7 @@ name: Update Docs Dependencies
 on:
   repository_dispatch:
     types: [update-docs]
+  workflow_dispatch:
 
 jobs:
   update:

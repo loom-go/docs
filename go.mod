@@ -7,9 +7,9 @@ require (
 	github.com/AnatoleLucet/sig v0.0.0-20260308162001-17251018b48a // indirect
 	github.com/AnatoleLucet/tess v0.0.0-20260203151116-72dc74b8dcb6 // indirect
 	github.com/imfing/hextra v0.12.1 // indirect
-	github.com/loom-go/loom v0.0.0-20260309233628-7db66b189c59 // indirect
-	github.com/loom-go/term v0.0.0-20260309235846-a4ab3cec38ef // indirect
-	github.com/loom-go/web v0.0.0-20260310092013-da6bf76e2a35 // indirect
+	github.com/loom-go/loom v0.0.0-20260310092344-1772cd9ad42c // indirect
+	github.com/loom-go/term v0.0.0-20260310092337-4ab87183cc28 // indirect
+	github.com/loom-go/web v0.0.0-20260310091640-82bf67d7d56d // indirect
 	github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6 // indirect
 	golang.org/x/sys v0.42.0 // indirect
 	golang.org/x/term v0.40.0 // indirect
