@@ -2,4 +2,15 @@ module github.com/loom-go/docs
 
 go 1.25.6
 
-require github.com/imfing/hextra v0.12.1 // indirect
+require (
+	github.com/AnatoleLucet/go-opentui v0.0.0-20260303123412-5ad44e1e9b77 // indirect
+	github.com/AnatoleLucet/sig v0.0.0-20260308162001-17251018b48a // indirect
+	github.com/AnatoleLucet/tess v0.0.0-20260203151116-72dc74b8dcb6 // indirect
+	github.com/imfing/hextra v0.12.1 // indirect
+	github.com/loom-go/loom v0.0.0-20260309233628-7db66b189c59 // indirect
+	github.com/loom-go/term v0.0.0-20260309235846-a4ab3cec38ef // indirect
+	github.com/loom-go/web v0.0.0-20260309235916-fda7b9745cf6 // indirect
+	github.com/petermattis/goid v0.0.0-20251121121749-a11dd1a45f9a // indirect
+	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/term v0.38.0 // indirect
+)

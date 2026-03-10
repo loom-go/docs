@@ -4,6 +4,18 @@ title: loom
 module:
   imports:
     - path: github.com/imfing/hextra
+    - path: github.com/loom-go/loom
+      mounts:
+        - source: docs
+          target: content/docs
+    - path: github.com/loom-go/term
+      mounts:
+        - source: docs
+          target: content/term
+    - path: github.com/loom-go/web
+      mounts:
+        - source: docs
+          target: content/web
 
 outputs:
   home: [html, llms]
