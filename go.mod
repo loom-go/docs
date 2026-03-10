@@ -9,8 +9,8 @@ require (
 	github.com/imfing/hextra v0.12.1 // indirect
 	github.com/loom-go/loom v0.0.0-20260309233628-7db66b189c59 // indirect
 	github.com/loom-go/term v0.0.0-20260309235846-a4ab3cec38ef // indirect
-	github.com/loom-go/web v0.0.0-20260309235916-fda7b9745cf6 // indirect
-	github.com/petermattis/goid v0.0.0-20251121121749-a11dd1a45f9a // indirect
-	golang.org/x/sys v0.40.0 // indirect
-	golang.org/x/term v0.38.0 // indirect
+	github.com/loom-go/web v0.0.0-20260310092013-da6bf76e2a35 // indirect
+	github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/term v0.40.0 // indirect
 )

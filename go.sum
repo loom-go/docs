@@ -14,9 +14,17 @@ github.com/loom-go/term v0.0.0-20260310000315-a59de5c81067 h1:NxJifBiRXAFqCsUq48
 github.com/loom-go/term v0.0.0-20260310000315-a59de5c81067/go.mod h1:vcJgrEXpH5kOTwM9AVqqvbDYhb87Pc/yT8JGEVSoHp4=
 github.com/loom-go/web v0.0.0-20260309235916-fda7b9745cf6 h1:tMErnrdLKM0XZuC2qqUNc1s7Vtjrfs4yihGEsKtvZFU=
 github.com/loom-go/web v0.0.0-20260309235916-fda7b9745cf6/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
+github.com/loom-go/web v0.0.0-20260310092013-da6bf76e2a35 h1:10nON1o7T/o5GoQCKDjgF74Gm1KexQy3XSYhbm3blWY=
+github.com/loom-go/web v0.0.0-20260310092013-da6bf76e2a35/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
 github.com/petermattis/goid v0.0.0-20251121121749-a11dd1a45f9a h1:VweslR2akb/ARhXfqSfRbj1vpWwYXf3eeAUyw/ndms0=
 github.com/petermattis/goid v0.0.0-20251121121749-a11dd1a45f9a/go.mod h1:pxMtw7cyUw6B2bRH0ZBANSPg+AoSud1I1iyJHI69jH4=
+github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6 h1:rh2lKw/P/EqHa724vYH2+VVQ1YnW4u6EOXl0PMAovZE=
+github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6/go.mod h1:pxMtw7cyUw6B2bRH0ZBANSPg+AoSud1I1iyJHI69jH4=
 golang.org/x/sys v0.40.0 h1:DBZZqJ2Rkml6QMQsZywtnjnnGvHza6BTfYFWY9kjEWQ=
 golang.org/x/sys v0.40.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
+golang.org/x/sys v0.42.0 h1:omrd2nAlyT5ESRdCLYdm3+fMfNFE/+Rf4bDIQImRJeo=
+golang.org/x/sys v0.42.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
 golang.org/x/term v0.38.0 h1:PQ5pkm/rLO6HnxFR7N2lJHOZX6Kez5Y1gDSJla6jo7Q=
 golang.org/x/term v0.38.0/go.mod h1:bSEAKrOT1W+VSu9TSCMtoGEOUcKxOKgl3LE5QEF/xVg=
+golang.org/x/term v0.40.0 h1:36e4zGLqU4yhjlmxEaagx2KuYbJq3EwY8K943ZsHcvg=
+golang.org/x/term v0.40.0/go.mod h1:w2P8uVp06p2iyKKuvXIm7N/y0UCRt3UfJTfZ7oOpglM=
