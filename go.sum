@@ -22,6 +22,8 @@ github.com/loom-go/term v0.0.0-20260310092337-4ab87183cc28 h1:NkvA4zFB6fhTrIyE+O
 github.com/loom-go/term v0.0.0-20260310092337-4ab87183cc28/go.mod h1:vcJgrEXpH5kOTwM9AVqqvbDYhb87Pc/yT8JGEVSoHp4=
 github.com/loom-go/term v0.0.0-20260310113634-ae906389bf92 h1:TkIN4p71xZ/BB8XPzQvcelxPbKwQiDDGcOPyIQGG4n0=
 github.com/loom-go/term v0.0.0-20260310113634-ae906389bf92/go.mod h1:54MVGU+4Gw4udNeVQ0dvqWn4NuIONc081EesfpmxMO0=
+github.com/loom-go/term v0.0.0-20260311113339-06025fa33a93 h1:deY6+VfQHxQFRqzEry9ZJziNWQ70Qn0fY5kk5gEDfZk=
+github.com/loom-go/term v0.0.0-20260311113339-06025fa33a93/go.mod h1:54MVGU+4Gw4udNeVQ0dvqWn4NuIONc081EesfpmxMO0=
 github.com/loom-go/web v0.0.0-20260310091640-82bf67d7d56d h1:XXwhQG3y9ax2QvEnw63fyUu9+uHCXnBHhpHisL8AF+Y=
 github.com/loom-go/web v0.0.0-20260310091640-82bf67d7d56d/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
 github.com/loom-go/web v0.1.0 h1:/x9VworwcLilVwQP3Cf9tqLBUgMe2Wb0d3YyCGH6OTw=

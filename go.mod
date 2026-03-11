@@ -8,7 +8,7 @@ require (
 	github.com/AnatoleLucet/tess v0.0.0-20260310111309-c8343f5a151d // indirect
 	github.com/imfing/hextra v0.12.1 // indirect
 	github.com/loom-go/loom v0.1.1-0.20260311112500-040cab6f8093 // indirect
-	github.com/loom-go/term v0.0.0-20260310113634-ae906389bf92 // indirect
+	github.com/loom-go/term v0.0.0-20260311113339-06025fa33a93 // indirect
 	github.com/loom-go/web v0.1.0 // indirect
 	github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6 // indirect
 	golang.org/x/sys v0.42.0 // indirect
