@@ -3,7 +3,6 @@ name: Update Docs Dependencies
 on:
   repository_dispatch:
     types: [update-docs]
-  workflow_dispatch:
 
 jobs:
   update:
@@ -23,7 +22,7 @@ jobs:
           sudo dpkg -i hugo_extended_0.145.0_linux-amd64.deb
 
       - name: Update Hugo modules
-        run: hugo mod get -u github.com/loom-go/loom github.com/loom-go/term github.com/loom-go/web
+        run: hugo mod get -u ${{ github.event.client_payload.module }}@${{ github.event.client_payload.version }}
 
       - name: Commit and push
         run: |
