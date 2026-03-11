@@ -23,7 +23,7 @@ jobs:
           sudo dpkg -i hugo_extended_0.145.0_linux-amd64.deb
 
       - name: Update Hugo modules
-        run: hugo mod get -u
+        run: hugo mod get -u github.com/loom-go/loom github.com/loom-go/term github.com/loom-go/web
 
       - name: Commit and push
         run: |

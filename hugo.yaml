@@ -62,7 +62,7 @@ menu:
       weight: 5
     - name: "GITHUB"
       weight: 6
-      url: "https://github.com/AnatoleLucet/loom"
+      url: "https://github.com/loom-go/loom"
     - name: "|"
       identifier: "spacer-2"
       weight: 7
