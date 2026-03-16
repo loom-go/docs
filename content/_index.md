@@ -14,7 +14,7 @@ toc: false
 
 Loom is a lightweight UI framework used to build Terminal UIs and Web SPAs.
 
-It lets you write surprisingly concise UI components in pure Go, that can be brought to life with reactive signals, and do expensive work in goroutines.
+It lets you write concise UI components in pure Go, that can be brought to life with reactive signals, and do expensive work in goroutines.
 
 If you're coming from SolidJS or ReactJS, you'll feel right at home.
 
