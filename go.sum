@@ -10,6 +10,8 @@ github.com/loom-go/loom v0.1.1-0.20260311112500-040cab6f8093 h1:PzPWdbe9vgiNDEq7
 github.com/loom-go/loom v0.1.1-0.20260311112500-040cab6f8093/go.mod h1:WXOgDJjBcfb/86Nu9eJTCSv49ln9yxvvtX3xpHHhaEA=
 github.com/loom-go/loom v0.2.0 h1:/1iatXRc71MYTwwCkAYJvP9C/zS0Hz5Ng14j77+/Uts=
 github.com/loom-go/loom v0.2.0/go.mod h1:WXOgDJjBcfb/86Nu9eJTCSv49ln9yxvvtX3xpHHhaEA=
+github.com/loom-go/loom v0.2.1-0.20260316160550-6588ea86bb62 h1:euJQfBe2HAcLz6e0pzOukJoqkTSOGYxzU+G6OBQJV7Y=
+github.com/loom-go/loom v0.2.1-0.20260316160550-6588ea86bb62/go.mod h1:WXOgDJjBcfb/86Nu9eJTCSv49ln9yxvvtX3xpHHhaEA=
 github.com/loom-go/term v0.1.1 h1:qIKk425eVh1mIgtRN02pY5KhtZPvp9aDl7z0hb8ILSI=
 github.com/loom-go/term v0.1.1/go.mod h1:TQcmNDOEQmRq93RJzXNadjDIl92/FgDRScvUSzqrjbU=
 github.com/loom-go/term v0.1.2-0.20260316154502-8be076ac1f57 h1:pfXJYpE5ZMktmd2K1TbvJPnebw4ek9V2/Ew94YH/TaA=
