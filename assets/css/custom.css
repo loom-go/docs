@@ -38,7 +38,7 @@
   align-items: center;
 }
 
-#home-hero>h1 {
+#home-hero > h1 {
   font-size: 2.5rem;
 
   margin-top: calc(var(--hx-spacing) * 2);
@@ -47,7 +47,7 @@
   letter-spacing: var(--hx-tracking-tight);
 }
 
-#home-hero>a {
+#home-hero > a {
   font-size: 0.9rem;
 }
 
@@ -60,11 +60,11 @@
   align-items: center;
 }
 
-#home-bottom-hero>h3 {
+#home-bottom-hero > h3 {
   font-size: 1.6rem;
 }
 
-#home-bottom-hero>a {
+#home-bottom-hero > a {
   font-size: 0.9rem;
   margin-bottom: 6px;
 }
@@ -107,6 +107,10 @@ video {
 
 .hextra-theme-toggle-options button span:first-child {
   display: block;
+}
+
+.content :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--hx-color-primary-700);
 }
 
 .g-10 {

@@ -66,8 +66,14 @@ menu:
     - name: "|"
       identifier: "spacer-2"
       weight: 7
-    - name: "THEME"
+    - name: "DISCORD"
       weight: 8
+      url: "https://discord.gg/DfDCFCHp92"
+    - name: "|"
+      identifier: "spacer-3"
+      weight: 9
+    - name: "THEME"
+      weight: 10
       params:
         type: theme-toggle
         label: false
