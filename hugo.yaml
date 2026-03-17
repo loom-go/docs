@@ -50,12 +50,18 @@ menu:
     - name: DOCS
       pageRef: /docs
       weight: 1
+      params:
+        toc: true
     - name: TERM
       pageRef: /term
       weight: 2
+      params:
+        toc: true
     - name: WEB
       pageRef: /web
       weight: 3
+      params:
+        toc: true
     - name: BLOG
       pageRef: /blog
       weight: 4
