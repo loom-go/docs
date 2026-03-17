@@ -22,6 +22,8 @@ outputs:
 
 params:
   description: The reactive component framework for Go.
+  images:
+    - /og-image.png
   search:
     enable: false
   navbar:
