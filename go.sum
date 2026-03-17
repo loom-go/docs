@@ -26,6 +26,8 @@ github.com/loom-go/web v0.2.1-0.20260316154428-1fbb0e16ee1c h1:Jq3y/dA3489f3nsgQ
 github.com/loom-go/web v0.2.1-0.20260316154428-1fbb0e16ee1c/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
 github.com/loom-go/web v0.2.1-0.20260317092205-f73500ed2a0b h1:tiV4VfjEz/F2Ws0K7YfJ2sWKbLeUPKuluRC7fgoHNBU=
 github.com/loom-go/web v0.2.1-0.20260317092205-f73500ed2a0b/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
+github.com/loom-go/web v0.2.1-0.20260317155909-3a2cab9db379 h1:BesDy7AeIoOPLFqOzEE+qG3aEdUZqcOd/zbtG7vo6Bg=
+github.com/loom-go/web v0.2.1-0.20260317155909-3a2cab9db379/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
 github.com/petermattis/goid v0.0.0-20251121121749-a11dd1a45f9a h1:VweslR2akb/ARhXfqSfRbj1vpWwYXf3eeAUyw/ndms0=
 github.com/petermattis/goid v0.0.0-20251121121749-a11dd1a45f9a/go.mod h1:pxMtw7cyUw6B2bRH0ZBANSPg+AoSud1I1iyJHI69jH4=
 github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6 h1:rh2lKw/P/EqHa724vYH2+VVQ1YnW4u6EOXl0PMAovZE=
