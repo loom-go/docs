@@ -30,6 +30,8 @@ func Counter() Node {
 Loom is a component framework.<br/>
 It's similar to modern versions of SolidJS or SvelteJS, but in Go and with a few twists:
 
+<br/>
+
 **1\) Markup is just Go functions.**
 
 Markup is not written in HTML, using templating, or in a separate JSX-like syntax that would require extra tooling.
@@ -43,7 +45,7 @@ func MyComponent(children ...loom.Node) loom.Node {
 }
 ```
 
-Since components are _just_ functions, they can be used and written however it fits you best to construct a complete UI.
+Since markup is _just_ Go functions, it can be used and written however it fits you best to construct a complete UI.
 
 For instance creating a `Card()` component with a title and a body:
 
@@ -62,6 +64,8 @@ func App() loom.Node {
     )
 }
 ```
+
+<br/>
 
 **2\) Concurrency is a first class citizen.**
 
@@ -84,6 +88,8 @@ go func() {
     set(10)
 }()
 ```
+
+<br/>
 
 **3\) Its not tied to any plateform.**
 
@@ -144,6 +150,8 @@ func main() {
 
 {{< /tab >}}
 {{< /tabs >}}
+
+<br/>
 
 **4\) Reactivity is explicit.**
 
@@ -325,9 +333,13 @@ It proves the idea works and is actually worth pursuing.
 The coming weeks/months of development are going to be targeted towards higher stability of the framework,
 and better documentation to make loom more accessible for a broader audience.
 
-The next core features you should expect are going to gravitate around reactive asynchronous tasks -- a must have for fetching, heavy computations, and anything async or blocking.
+<br/>
 
-**Async memos**
+The next core features you should expect to land are going to gravitate around reactive asynchronicity --
+a very important step towards proper: fetching, computations, or anything blocking.<br/>
+Async tasks are completely possible in the current version of loom, but they could be _better_.
+
+One of the first building blocks in that direction is **async memos**.
 
 Put simply, an async memo is just a reactive computation that's executed in a goroutine.
 
@@ -343,9 +355,11 @@ user := AsyncMemo(func() (User, error) {
 u, err := user()
 ```
 
-This is the roots of more advanced features like suspense, panic boundaries, and async stores similar to [TanStack Query](https://tanstack.com/query/latest).
+Async memos will open the door for more advanced features like suspense, panic boundaries, and async stores similar to [TanStack Query](https://tanstack.com/query/latest).
 
 <br/>
+
+If you'd like to help, head over at [github.com/loom-go](https://github.com/loom-go/)!
 
 ---
 
@@ -363,3 +377,6 @@ Many of the ideas behind **LOOM-TERM** where inspired by what's been done on Ope
 </details>
 
 If you made it here you're probably intrested in how to get started with loom! Head over to the -> [DOCS](/docs) to learn more.
+
+If you have a question or want to discuss something about loom:
+come and [join the Discord](https://discord.gg/DfDCFCHp92). There's no such thing as a bad question!
