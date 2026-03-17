@@ -18,6 +18,8 @@ github.com/loom-go/term v0.1.2-0.20260316154502-8be076ac1f57 h1:pfXJYpE5ZMktmd2K
 github.com/loom-go/term v0.1.2-0.20260316154502-8be076ac1f57/go.mod h1:TQcmNDOEQmRq93RJzXNadjDIl92/FgDRScvUSzqrjbU=
 github.com/loom-go/term v0.1.2-0.20260317092058-d86d62b04cd7 h1:fxY7oYTFdiHP84uqfMUDq3jIX7VyotWrzacIi/M0p8w=
 github.com/loom-go/term v0.1.2-0.20260317092058-d86d62b04cd7/go.mod h1:TQcmNDOEQmRq93RJzXNadjDIl92/FgDRScvUSzqrjbU=
+github.com/loom-go/term v0.1.2-0.20260317094000-2f47eafab111 h1:3y1DieeOQGaoU8+2pCruV2WIIXJFJL1a3V5sFerYKnk=
+github.com/loom-go/term v0.1.2-0.20260317094000-2f47eafab111/go.mod h1:TQcmNDOEQmRq93RJzXNadjDIl92/FgDRScvUSzqrjbU=
 github.com/loom-go/web v0.2.0 h1:80hG708KFcusLCuBCX2H8co/1VtfrzfTIL3ke7Br5Lg=
 github.com/loom-go/web v0.2.0/go.mod h1:2TK8oeYbdP4zJhj++bALyvVlUZSBSOnYmzHgOLqihF0=
 github.com/loom-go/web v0.2.1-0.20260316154428-1fbb0e16ee1c h1:Jq3y/dA3489f3nsgQgVKaKcKE1htDi5bcubhKxvyXak=
