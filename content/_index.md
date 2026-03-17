@@ -65,13 +65,13 @@ func Counter() Node {
         <br/>
         -------------------
         <br/><br/><br/>
-        <a href="/term/getting-started">LOOM-TERM -></a>
+        <a href="/term">LOOM-TERM -></a>
         <br/>
         For powerful Terminal UIs.
         <br/>
         --------------------------
         <br/><br/><br/>
-        <a href="/web/getting-started">LOOM-WEB -></a>
+        <a href="/web">LOOM-WEB -></a>
         <br/>
         For simple Web SPAs.
         <br/>
