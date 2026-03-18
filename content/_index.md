@@ -47,7 +47,7 @@ func Counter() Node {
 
 [*] **Pure Go** | No extra compiler. Use the tools you already know.
 
-[*] **Multi-plateform** | The only thing loom needs is a [renderer](/docs/concepts.md#renderer). Build a UI for your calculator if you want.
+[*] **Multi-plateform** | The only thing loom needs is a [renderer](/docs/get-started/concepts.md#renderer). Build a UI for your calculator if you want.
 
 [*] **Signal-based** | Performant fine-grained reactive updates. You [decide](/docs/guides/binding) what part of the tree gets to update.
 
