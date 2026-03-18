@@ -7,7 +7,7 @@ require (
 	github.com/AnatoleLucet/sig v0.0.0-20260308162001-17251018b48a // indirect
 	github.com/AnatoleLucet/tess v0.0.0-20260310111309-c8343f5a151d // indirect
 	github.com/imfing/hextra v0.12.1 // indirect
-	github.com/loom-go/loom v0.2.1-0.20260318085417-20824506d766 // indirect
+	github.com/loom-go/loom v0.2.1-0.20260318085602-05facf78863a // indirect
 	github.com/loom-go/term v0.1.2-0.20260317155924-def45381c43b // indirect
 	github.com/loom-go/web v0.2.1-0.20260317155909-3a2cab9db379 // indirect
 	github.com/petermattis/goid v0.0.0-20260226131333-17d1149c6ac6 // indirect

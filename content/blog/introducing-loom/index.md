@@ -93,12 +93,16 @@ go func() {
 
 **3\) Its not tied to any plateform.**
 
-Loom is not tied to the web, nor to the terminal, nor native.<br/>
-By itself, loom only provides the reactive model and basic components like [`For()`](/docs/components/for) and [`Fragment()`](/docs/components/fragment).
+Loom is not tied to the web, or the terminal, or native.<br/>
+Because by itself, it doesn't have any UI concept like elements, styling and positioning.
+Loom only provides the reactive model and basic -- arithmetic -- components like [`For()`](/docs/components/for), [`Show()`](/docs/components/show) and [`Fragment()`](/docs/components/fragment).
 
-The rest is handled by plateform-specific [renderers](/docs/get-started/concepts#renderer) which comes with components and tools for _that_ plateform.
+The rest is provided by plateform-specific [renderers](/docs/get-started/concepts#renderer) which comes with components and tools for _that_ plateform.<br/>
 
-Loom has two official renderers:<br/>
+On its own, loom has no understanding of what a renderer is.<br/>
+Because a renderer does not integrate with loom. Instead you use it **alongside** loom's reactive model and base components.
+
+There's two official renderers:<br/>
 [\*] <a href="/term/intro">LOOM-TERM -></a> | For building Terminal UIs.<br/>
 [\*] <a href="/web/intro">LOOM-WEB -></a> | For building Web SPAs.
 
