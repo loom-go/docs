@@ -1,5 +1,5 @@
 ---
-date: "2026-02-11T10:24:52+01:00"
+date: "2026-03-16T00:00:00+01:00"
 title: "INTRODUCING LOOM"
 description: "The component framework for Go."
 ---
@@ -72,8 +72,8 @@ func App() loom.Node {
 Signal-based reactive models have been relying on global state and predictible tasks scheduling to capture signal reads. Making it impossible to work with signals across multiple threads or concurrent code execution.
 
 Loom's [reactive model](https://github.com/loom-go/loom/tree/main/signals#signals) solves this issue while still keeping
-the [consistency and reliablilty](https://github.com/AnatoleLucet/sig?tab=readme-ov-file#features) of modern signal-based reactive models.<br/>
-With this model you can update signals from hundreds of concurrent tasks, or create and destroy effects/memos across any number of goroutines and threads without any risk of polution.
+the [consistency and reliability](https://github.com/AnatoleLucet/sig?tab=readme-ov-file#features) of modern signal-based reactive models.<br/>
+With this model you can update signals from hundreds of concurrent tasks, or create and destroy effects/memos across any number of goroutines and threads without any risk of pollution.
 
 ```go {style=tokyonight-moon}
 get, set := Signal(0)
@@ -84,22 +84,22 @@ Effect(func() {
 
 go func() {
     // triggers the effect as it should.
-    // no risk of another signal sneaking in and poluting the effect.
+    // no risk of another signal sneaking in and polluting the effect.
     set(10)
 }()
 ```
 
 <br/>
 
-**3\) Its not tied to any plateform.**
+**3\) It's not tied to any platform.**
 
 Loom is not tied to the web, or the terminal, or native.<br/>
 Because by itself, it doesn't have any UI concept like elements, styling and positioning.
 Loom only provides the reactive model and basic -- arithmetic -- components like [`For()`](/docs/components/for), [`Show()`](/docs/components/show) and [`Fragment()`](/docs/components/fragment).
 
-The rest is provided by plateform-specific [renderers](/docs/get-started/concepts#renderer) which comes with components and tools for _that_ plateform.<br/>
+The rest is provided by platform-specific [renderers](/docs/get-started/concepts#renderer) which comes with components and tools for _that_ platform.<br/>
 
-On its own, loom has no understanding of what a renderer is.<br/>
+But on its own, loom has no understanding of what a renderer is either.
 Because a renderer does not integrate with loom. Instead you use it **alongside** loom's reactive model and base components.
 
 There's two official renderers:<br/>
@@ -331,7 +331,7 @@ Full source code at [term/examples/styling](https://github.com/loom-go/term/tree
 loom is still in very _very_ early development.<br/>
 Expect bugs, but also expect more stability and more features to come!
 
-This initial releases sets the stage for what's to come.<br/>
+This initial release sets the stage for what's to come.<br/>
 It proves the idea works and is actually worth pursuing.
 
 The coming weeks/months of development are going to be targeted towards higher stability of the framework,
@@ -380,7 +380,7 @@ Many of the ideas behind **LOOM-TERM** where inspired by what's been done on Ope
 
 </details>
 
-If you made it here you're probably intrested in how to get started with loom! Head over to the -> [DOCS](/docs) to learn more.
+If you made it here you're probably interested in how to get started with loom! Head over to the -> [DOCS](/docs) to learn more.
 
 If you have a question or want to discuss something about loom:
 come and [join the Discord](https://discord.gg/DfDCFCHp92). There's no such thing as a bad question!
