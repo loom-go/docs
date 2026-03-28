@@ -2,6 +2,8 @@ github.com/AnatoleLucet/go-opentui v0.0.0-20260311124333-d904eb66f503 h1:6dpUhP4
 github.com/AnatoleLucet/go-opentui v0.0.0-20260311124333-d904eb66f503/go.mod h1:JxO6qbrbNsTT3nPTPrnhhQEA1fKnEA8tNCaujsoHyPI=
 github.com/AnatoleLucet/sig v0.0.0-20260308162001-17251018b48a h1:B/YZ1KcFTI7Z6t36euajviYqJSinUydX/qwgGBmoEyk=
 github.com/AnatoleLucet/sig v0.0.0-20260308162001-17251018b48a/go.mod h1:R9eHfMPg6gNCgM185K2uPYM8xxQZE4HZq+jw3DoeHQU=
+github.com/AnatoleLucet/sig v0.0.0-20260327162006-b5f15421cf6c h1:53jGLNnvPIlDEzyT0SSDeNOqRlUI/46vdjjXASuQ784=
+github.com/AnatoleLucet/sig v0.0.0-20260327162006-b5f15421cf6c/go.mod h1:R9eHfMPg6gNCgM185K2uPYM8xxQZE4HZq+jw3DoeHQU=
 github.com/AnatoleLucet/tess v0.0.0-20260310111309-c8343f5a151d h1:thS9H0S7/Uo8dOOS/Cp4vdpciAaAJBWlmWnufbYgpeU=
 github.com/AnatoleLucet/tess v0.0.0-20260310111309-c8343f5a151d/go.mod h1:HqZNGWSj4mPsukwZHs8RMyC2wpgOQ+ZAtr1B8IYxwUg=
 github.com/imfing/hextra v0.12.1 h1:3t1n0bmJbDzSTVfht93UDcfF1BXMRjeFojA071ri2l8=
@@ -18,6 +20,8 @@ github.com/loom-go/loom v0.2.1-0.20260318085417-20824506d766 h1:eKb4puKqGt3aOIPH
 github.com/loom-go/loom v0.2.1-0.20260318085417-20824506d766/go.mod h1:WXOgDJjBcfb/86Nu9eJTCSv49ln9yxvvtX3xpHHhaEA=
 github.com/loom-go/loom v0.2.1-0.20260318085602-05facf78863a h1:otO9V6LVntaDe60k3O0bIKmDnntaZkfYssQmVfL77pk=
 github.com/loom-go/loom v0.2.1-0.20260318085602-05facf78863a/go.mod h1:WXOgDJjBcfb/86Nu9eJTCSv49ln9yxvvtX3xpHHhaEA=
+github.com/loom-go/loom v0.2.2-0.20260328201949-6343b2dad088 h1:NVciArASDPSFs4SoamVFqqrnDYk67iwCCNPj6zPgoLM=
+github.com/loom-go/loom v0.2.2-0.20260328201949-6343b2dad088/go.mod h1:WXOgDJjBcfb/86Nu9eJTCSv49ln9yxvvtX3xpHHhaEA=
 github.com/loom-go/term v0.1.1 h1:qIKk425eVh1mIgtRN02pY5KhtZPvp9aDl7z0hb8ILSI=
 github.com/loom-go/term v0.1.1/go.mod h1:TQcmNDOEQmRq93RJzXNadjDIl92/FgDRScvUSzqrjbU=
 github.com/loom-go/term v0.1.2-0.20260316154502-8be076ac1f57 h1:pfXJYpE5ZMktmd2K1TbvJPnebw4ek9V2/Ew94YH/TaA=
